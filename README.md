@@ -8,9 +8,9 @@
   - https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 3. Holiday (2018); PDF to CSV  
   - https://bsc.ogs.ny.gov/sites/default/files/BSC_Announcement_NYS_Holiday_Announcement_2017_2018.pdf
-4. Traffic Accident (2018); CSV. 
+4. Traffic Accident (2018); CSV  
   - https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions/h9gi-nx95 API
-5. Taxi zone NYC; shapefile  
+5. Taxi Zone NYC; Shapefile  
   - https://data.cityofnewyork.us/Transportation/NYC-Taxi-Zones/d3c5-ddgc
     
 This is a group project done together by Yunhe Cui, Xurui Chen and Yuchen Ding. 
